@@ -1,5 +1,7 @@
 # PushupCounter - A Walabot Application
 
+[![Get Ready to Sweat - Walabot Wed](http://img.youtube.com/vi/UpUDK8bEH6M/0.jpg)](http://www.youtube.com/watch?v=UpUDK8bEH6M)
+
 A simple Walabot application that acts as your personal push-up trainer.  
 Choose a difficulty level, calibrate your utmost position, and start pushing!  
 
