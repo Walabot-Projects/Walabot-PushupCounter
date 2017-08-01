@@ -19,7 +19,7 @@ Choose a difficulty level, calibrate your utmost position, and start pushing!
 2. [Build the project](http://api.walabot.com/_project.html).
 3. Start pushing! :muscle: :muscle:
 
-**IMPORTANT NOTE:** Current Walabot settings are for vMaker18.
+**IMPORTANT NOTE:** Current Walabot settings are for Walabot Developer (formerly Walabot Pro).
 
 ## Editing the code
 
